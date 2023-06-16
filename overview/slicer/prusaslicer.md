@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt="Thumbnail from PrusaSlicer"><figcaption></figcaption></figure>
 
-In "Expert" mode PrusaSlicer has an option in the "Printer Settings" tab to activate previews. Under `General / Firmware`, enter `32x32,400x300` as "G-code thumbnails".
+In "Expert" mode PrusaSlicer has an option in the "Printer Settings" tab to activate previews. Under `General / Firmware`, enter `32x32,400x300` as "G-code thumbnails". Select `PNG` as image format if this option is available.
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
